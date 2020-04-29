@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/cocoryse/Desktop/Учусь/c++/Laba1TaskA5/main.cpp
+iostream
+-
+iterator
+-
+algorithm
+-
+fstream
+-
+random
+-
+vector
+-
+

@@ -1,0 +1,3 @@
+/Users/cocoryse/Desktop/Учусь/c++/Laba1TaskA5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/cocoryse/Desktop/Учусь/c++/Laba1TaskA5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cocoryse/Desktop/Учусь/c++/Laba1TaskA5/cmake-build-debug/CMakeFiles/Laba1TaskA5.dir
